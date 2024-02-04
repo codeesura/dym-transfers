@@ -1,0 +1,10 @@
+{
+    "providerUrl": "",
+    "receiverAddress": "SAFE_WALLET_ADDRESS",
+    "privateKeys": [
+        "PRIVATE_KEY_1",
+        "PRIVATE_KEY_2",
+        "PRIVATE_KEY_3"
+    ],
+    "feeAmount": "1"
+}
