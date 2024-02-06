@@ -1,10 +1,8 @@
 {
-    "providerUrl": "",
-    "receiverAddress": "SAFE_WALLET_ADDRESS",
+    "providerUrl": "https://dymension-evm.blockpi.network/v1/rpc/public",
+    "receiverAddress": "0xff27b84d48Bc5bBa5f9382C3922B2867E3Fc8017",
     "privateKeys": [
-        "PRIVATE_KEY_1",
-        "PRIVATE_KEY_2",
-        "PRIVATE_KEY_3"
+        "b8ce1ace59bc6af9d8b6c00ab8e282db7a5c760500de4d968135aeb8de913ded",
     ],
     "feeAmount": "1"
 }
